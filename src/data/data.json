@@ -1,0 +1,242 @@
+[
+    {
+        "id": "66330",
+        "name": "Theobroma, Karol Bagh",
+        "address": "Karol Bagh",
+        "cuisines": "Cakes, Dessert, Mithai, Confectionary",
+        "rating": "4.4",
+        "reviews": "865",
+        "feature_image": "https://cdn.shopify.com/s/files/1/0521/3929/4884/files/jubilee_480x480.jpg?v=1641318796",
+        "thumbnail_image": "https://cdn.shopify.com/s/files/1/0521/3929/4884/files/jubilee_480x480.jpg?v=1641318796",
+        "menu": [
+            {
+                "id": 1,
+                "name": "Christmas Cake [350g]",
+                "desc": "Christmas fruit cake made with macerated fruits, dates, prunes, orange peel, almonds, and Traditional spices.",
+                "price": 210,
+                "imgUrl": "https://imgsvctt.inresto.com/torqus-tedge/menu-image-upload/1843/6503/CHRISTMASCAKE350G-1670511481164.jpg?tr:n-inr_menu"
+
+            },
+            {
+                "id": 2,
+                "name": "Chocolate Pralines Gift Box [10 Pcs]",
+                "desc": "An assortment of handcrafted enrobed chocolates made with couverture chocolate in 5 flavours -1. Earl gray tea, 2. Honey nougat, 3. Raspberry, 4. Lemon, 5. Hazelnut & Almond.",
+                "price": 280,
+                "imgUrl": "https://imgsvctt.inresto.com/torqus-tedge/menu-image-upload/1843/6503/CHOCOLATEPRALINESGIFTBOX10PCS-1670511480464.jpg?tr:n-inr_menu"
+            },
+            {
+                "id": 3,
+                "name": "Strawberry Custard Cake [1/2kg]",
+                "desc": "Moist eggless cake sponge layered with fresh strawberries, house-made strawberry jam & custard cream.",
+                "price": 230,
+                "imgUrl": "https://imgsvctt.inresto.com/torqus-tedge/menu-image-upload/1843/6503/STRAWBERRYCUSTARDCAKE12KG-1670588651929.jpg?tr:n-inr_menu"
+            },
+            {
+                "id": 4,
+                "name": "Spinach Corn & Cheese Sandwich [180g]",
+                "desc": "A little corny, lot cheesy, very wholesome!",
+                "price": 190,
+                "imgUrl": "https://imgsvctt.inresto.com/torqus-tedge/menu-image-upload/1843/6503/DEL_SPINACHCORNCHEESESANDWICH250G-1628752212692.jpg?tr:n-inr_menu"
+            },
+            {
+                "id": 5,
+                "name": "Eggless Mava Cake [225g]",
+                "desc": "A moist and buttery cake made with mava (khoya).",
+                "price": 240,
+                "imgUrl": "https://imgsvctt.inresto.com/torqus-tedge/menu-image-upload/1843/6503/DEL_THEOSEGGLESSMAWACAKE230G-1628753243439.jpg?tr:n-inr_menu"
+            }
+        ]
+    },
+    {
+        "id": "71679",
+        "name": "Theobroma, Connaught Place",
+        "address": "Connaught Place",
+        "cuisines": "Cakes, Dessert, Mithai, Confectionary",
+        "rating": "4.1",
+        "reviews": "505",
+        "feature_image": "https://cdn.shopify.com/s/files/1/0521/3929/4884/files/begumpet1_480x480.jpg?v=1641535131",
+        "thumbnail_image": "https://cdn.shopify.com/s/files/1/0521/3929/4884/files/begumpet1_480x480.jpg?v=1641535131",
+        "menu": [
+            {
+                "id": 1,
+                "name": "Christmas Cake [350g]",
+                "desc": "Christmas fruit cake made with macerated fruits, dates, prunes, orange peel, almonds, and Traditional spices.",
+                "price": 210,
+                "imgUrl": "https://imgsvctt.inresto.com/torqus-tedge/menu-image-upload/1843/6503/CHRISTMASCAKE350G-1670511481164.jpg?tr:n-inr_menu"
+
+            },
+            {
+                "id": 2,
+                "name": "Chocolate Pralines Gift Box [10 Pcs]",
+                "desc": "An assortment of handcrafted enrobed chocolates made with couverture chocolate in 5 flavours -1. Earl gray tea, 2. Honey nougat, 3. Raspberry, 4. Lemon, 5. Hazelnut & Almond.",
+                "price": 280,
+                "imgUrl": "https://imgsvctt.inresto.com/torqus-tedge/menu-image-upload/1843/6503/CHOCOLATEPRALINESGIFTBOX10PCS-1670511480464.jpg?tr:n-inr_menu"
+            },
+            {
+                "id": 3,
+                "name": "Strawberry Custard Cake [1/2kg]",
+                "desc": "Moist eggless cake sponge layered with fresh strawberries, house-made strawberry jam & custard cream.",
+                "price": 230,
+                "imgUrl": "https://imgsvctt.inresto.com/torqus-tedge/menu-image-upload/1843/6503/STRAWBERRYCUSTARDCAKE12KG-1670588651929.jpg?tr:n-inr_menu"
+            },
+            {
+                "id": 4,
+                "name": "Spinach Corn & Cheese Sandwich [180g]",
+                "desc": "A little corny, lot cheesy, very wholesome!",
+                "price": 190,
+                "imgUrl": "https://imgsvctt.inresto.com/torqus-tedge/menu-image-upload/1843/6503/DEL_SPINACHCORNCHEESESANDWICH250G-1628752212692.jpg?tr:n-inr_menu"
+            },
+            {
+                "id": 5,
+                "name": "Eggless Mava Cake [225g]",
+                "desc": "A moist and buttery cake made with mava (khoya).",
+                "price": 240,
+                "imgUrl": "https://imgsvctt.inresto.com/torqus-tedge/menu-image-upload/1843/6503/DEL_THEOSEGGLESSMAWACAKE230G-1628753243439.jpg?tr:n-inr_menu"
+            }
+        ]
+    },
+    {
+        "id": "68329",
+        "name": "Theobroma, RK Ashram",
+        "address": "RK Ashram",
+        "cuisines": "Cakes, Dessert, Mithai, Confectionary",
+        "rating": "4.2",
+        "reviews": "285",
+        "feature_image": "https://cdn.shopify.com/s/files/1/0521/3929/4884/files/inorbit-mall_480x480.jpg?v=1641357466",
+        "thumbnail_image": "https://cdn.shopify.com/s/files/1/0521/3929/4884/files/inorbit-mall_480x480.jpg?v=1641357466",
+        "menu": [
+            {
+                "id": 1,
+                "name": "Christmas Cake [350g]",
+                "desc": "Christmas fruit cake made with macerated fruits, dates, prunes, orange peel, almonds, and Traditional spices.",
+                "price": 210,
+                "imgUrl": "https://imgsvctt.inresto.com/torqus-tedge/menu-image-upload/1843/6503/CHRISTMASCAKE350G-1670511481164.jpg?tr:n-inr_menu"
+
+            },
+            {
+                "id": 2,
+                "name": "Chocolate Pralines Gift Box [10 Pcs]",
+                "desc": "An assortment of handcrafted enrobed chocolates made with couverture chocolate in 5 flavours -1. Earl gray tea, 2. Honey nougat, 3. Raspberry, 4. Lemon, 5. Hazelnut & Almond.",
+                "price": 280,
+                "imgUrl": "https://imgsvctt.inresto.com/torqus-tedge/menu-image-upload/1843/6503/CHOCOLATEPRALINESGIFTBOX10PCS-1670511480464.jpg?tr:n-inr_menu"
+            },
+            {
+                "id": 3,
+                "name": "Strawberry Custard Cake [1/2kg]",
+                "desc": "Moist eggless cake sponge layered with fresh strawberries, house-made strawberry jam & custard cream.",
+                "price": 230,
+                "imgUrl": "https://imgsvctt.inresto.com/torqus-tedge/menu-image-upload/1843/6503/STRAWBERRYCUSTARDCAKE12KG-1670588651929.jpg?tr:n-inr_menu"
+            },
+            {
+                "id": 4,
+                "name": "Spinach Corn & Cheese Sandwich [180g]",
+                "desc": "A little corny, lot cheesy, very wholesome!",
+                "price": 190,
+                "imgUrl": "https://imgsvctt.inresto.com/torqus-tedge/menu-image-upload/1843/6503/DEL_SPINACHCORNCHEESESANDWICH250G-1628752212692.jpg?tr:n-inr_menu"
+            },
+            {
+                "id": 5,
+                "name": "Eggless Mava Cake [225g]",
+                "desc": "A moist and buttery cake made with mava (khoya).",
+                "price": 240,
+                "imgUrl": "https://imgsvctt.inresto.com/torqus-tedge/menu-image-upload/1843/6503/DEL_THEOSEGGLESSMAWACAKE230G-1628753243439.jpg?tr:n-inr_menu"
+            }
+        ]
+    },
+    {
+        "id": "67408",
+        "name": "Theobroma, Greater Kailash",
+        "address": "Greater Kailash",
+        "cuisines": "Cakes, Dessert, Mithai, Confectionary",
+        "rating": "4.1",
+        "reviews": "537",
+        "feature_image": "https://cdn.shopify.com/s/files/1/0521/3929/4884/files/mindspace-hyderabad.jpg?v=1665997513",
+        "thumbnail_image": "https://cdn.shopify.com/s/files/1/0521/3929/4884/files/mindspace-hyderabad.jpg?v=1665997513",
+        "menu": [
+            {
+                "id": 1,
+                "name": "Christmas Cake [350g]",
+                "desc": "Christmas fruit cake made with macerated fruits, dates, prunes, orange peel, almonds, and Traditional spices.",
+                "price": 210,
+                "imgUrl": "https://imgsvctt.inresto.com/torqus-tedge/menu-image-upload/1843/6503/CHRISTMASCAKE350G-1670511481164.jpg?tr:n-inr_menu"
+
+            },
+            {
+                "id": 2,
+                "name": "Chocolate Pralines Gift Box [10 Pcs]",
+                "desc": "An assortment of handcrafted enrobed chocolates made with couverture chocolate in 5 flavours -1. Earl gray tea, 2. Honey nougat, 3. Raspberry, 4. Lemon, 5. Hazelnut & Almond.",
+                "price": 280,
+                "imgUrl": "https://imgsvctt.inresto.com/torqus-tedge/menu-image-upload/1843/6503/CHOCOLATEPRALINESGIFTBOX10PCS-1670511480464.jpg?tr:n-inr_menu"
+            },
+            {
+                "id": 3,
+                "name": "Strawberry Custard Cake [1/2kg]",
+                "desc": "Moist eggless cake sponge layered with fresh strawberries, house-made strawberry jam & custard cream.",
+                "price": 230,
+                "imgUrl": "https://imgsvctt.inresto.com/torqus-tedge/menu-image-upload/1843/6503/STRAWBERRYCUSTARDCAKE12KG-1670588651929.jpg?tr:n-inr_menu"
+            },
+            {
+                "id": 4,
+                "name": "Spinach Corn & Cheese Sandwich [180g]",
+                "desc": "A little corny, lot cheesy, very wholesome!",
+                "price": 190,
+                "imgUrl": "https://imgsvctt.inresto.com/torqus-tedge/menu-image-upload/1843/6503/DEL_SPINACHCORNCHEESESANDWICH250G-1628752212692.jpg?tr:n-inr_menu"
+            },
+            {
+                "id": 5,
+                "name": "Eggless Mava Cake [225g]",
+                "desc": "A moist and buttery cake made with mava (khoya).",
+                "price": 240,
+                "imgUrl": "https://imgsvctt.inresto.com/torqus-tedge/menu-image-upload/1843/6503/DEL_THEOSEGGLESSMAWACAKE230G-1628753243439.jpg?tr:n-inr_menu"
+            }
+        ]
+    },
+    {
+        "id": "66334",
+        "name": "Theobroma, Ghitorni",
+        "address": "Ghitorni",
+        "cuisines": "Cakes, Dessert, Mithai, Confectionary",
+        "rating": "4.2",
+        "reviews": "380",
+        "feature_image": "https://cdn.shopify.com/s/files/1/0521/3929/4884/files/gvkonemall_480x480.jpg?v=1641535525",
+        "thumbnail_image": "https://cdn.shopify.com/s/files/1/0521/3929/4884/files/gvkonemall_480x480.jpg?v=1641535525",
+        "menu": [
+            {
+                "id": 1,
+                "name": "Christmas Cake [350g]",
+                "desc": "Christmas fruit cake made with macerated fruits, dates, prunes, orange peel, almonds, and Traditional spices.",
+                "price": 210,
+                "imgUrl": "https://imgsvctt.inresto.com/torqus-tedge/menu-image-upload/1843/6503/CHRISTMASCAKE350G-1670511481164.jpg?tr:n-inr_menu"
+
+            },
+            {
+                "id": 2,
+                "name": "Chocolate Pralines Gift Box [10 Pcs]",
+                "desc": "An assortment of handcrafted enrobed chocolates made with couverture chocolate in 5 flavours -1. Earl gray tea, 2. Honey nougat, 3. Raspberry, 4. Lemon, 5. Hazelnut & Almond.",
+                "price": 280,
+                "imgUrl": "https://imgsvctt.inresto.com/torqus-tedge/menu-image-upload/1843/6503/CHOCOLATEPRALINESGIFTBOX10PCS-1670511480464.jpg?tr:n-inr_menu"
+            },
+            {
+                "id": 3,
+                "name": "Strawberry Custard Cake [1/2kg]",
+                "desc": "Moist eggless cake sponge layered with fresh strawberries, house-made strawberry jam & custard cream.",
+                "price": 230,
+                "imgUrl": "https://imgsvctt.inresto.com/torqus-tedge/menu-image-upload/1843/6503/STRAWBERRYCUSTARDCAKE12KG-1670588651929.jpg?tr:n-inr_menu"
+            },
+            {
+                "id": 4,
+                "name": "Spinach Corn & Cheese Sandwich [180g]",
+                "desc": "A little corny, lot cheesy, very wholesome!",
+                "price": 190,
+                "imgUrl": "https://imgsvctt.inresto.com/torqus-tedge/menu-image-upload/1843/6503/DEL_SPINACHCORNCHEESESANDWICH250G-1628752212692.jpg?tr:n-inr_menu"
+            },
+            {
+                "id": 5,
+                "name": "Eggless Mava Cake [225g]",
+                "desc": "A moist and buttery cake made with mava (khoya).",
+                "price": 240,
+                "imgUrl": "https://imgsvctt.inresto.com/torqus-tedge/menu-image-upload/1843/6503/DEL_THEOSEGGLESSMAWACAKE230G-1628753243439.jpg?tr:n-inr_menu"
+            }
+        ]
+    }
+]
