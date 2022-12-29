@@ -135,7 +135,7 @@ class Orders extends React.Component {
                                 <input id="pay" type="button" value="Calculate"
                                 onClick = {() => this.total(this.state.price,this.state.quantity)} />
                                 <br/>
-                                <input id="pay" type="button" value="Pay Now" onClick={()=> console.log(this.state.name)}/>
+                                <input id="pay" type="button" value="Checkout" onClick={()=> console.log("Dish Name:"+this.state.name ,"Price:" + this.state.price, "Quantity:"+this.state.quantity)}/>
                             </div>
                         </div>                
                     </div>
